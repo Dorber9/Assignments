@@ -1,5 +1,5 @@
 # Assignments
-Web development course's final project It includes HTML, CSS, JS, JQUERY, AJAX, PHP, VUE. It runs with xampp and PHPMYADMIN, The neccesary steps are:
+Web development course's final project, includes HTML, CSS, JS, JQUERY, AJAX, PHP, VUE. It runs with xampp and PHPMYADMIN, The neccesary steps are:
 
 1.Download the project into htdocs under xampp. 
 2.Open xampp and run Apache+MySQL. 
